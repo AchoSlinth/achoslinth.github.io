@@ -1,15 +1,15 @@
 bgChange = () => {
 
     const images = [
-        "url(https://forums.terraria.org/index.php?attachments/n-1-png.31583/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-2-png.31584/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-3-png.31585/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-4-png.31586/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-5-png.31587/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-6-png.31600/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-7-png.32392/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-8-png.69704/)",
-        "url(https://forums.terraria.org/index.php?attachments/n-9-png.37956/)",
+        "url(/backgrounds/1.png)",
+        "url(/backgrounds/2.png)",
+        "url(/backgrounds/3.png)",
+        "url(/backgrounds/4.png)",
+        "url(/backgrounds/5.png)",
+        "url(/backgrounds/6.png)",
+        "url(/backgrounds/7.png)",
+        "url(/backgrounds/8.png)",
+        "url(/backgrounds/9.png)",
     ]
 
     body = document.querySelector('body');
