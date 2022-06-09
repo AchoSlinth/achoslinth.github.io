@@ -18,4 +18,4 @@ bgChange = () => {
     body.style.backgroundImage = bg;
 };
 
-setInterval(bgChange, 3000);
+setInterval(bgChange, 5000);
