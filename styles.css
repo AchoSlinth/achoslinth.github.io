@@ -47,3 +47,16 @@ h1 {
 .countdown-el span {
     font-size: 1.5rem;
 }
+
+.audio-container {
+    padding: 0;
+    display: grid;
+    justify-items: center;
+}
+
+.audio-container .startGif {
+    width: 500px; /* width of container */
+    height: 80px; /* height of container */
+    object-fit: cover;
+}
+
